@@ -1,0 +1,2 @@
+# openapi-typescript
+repro case
